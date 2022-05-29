@@ -1,3 +1,4 @@
+
 #LINK: https://www.hackerrank.com/challenges/the-minion-game/problem
 #Language: Python
 #Difficulty: Medium
